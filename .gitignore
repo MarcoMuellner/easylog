@@ -1,0 +1,17 @@
+.DS_Store
+.env
+/node_modules/
+*.tsbuildinfo
+
+# React Router
+/.react-router/
+/build/
+
+/app/generated/prisma
+/.idea/codeStyles/codeStyleConfig.xml
+/.idea/codeStyles/Project.xml
+/.idea/.gitignore
+/.idea/easylog.iml
+/.idea/modules.xml
+/.idea/prettier.xml
+/.idea/vcs.xml
